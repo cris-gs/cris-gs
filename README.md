@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **cris-gs/cris-gs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
-Hello! I'm Cristopher González @cris-gs<br><br>I'm a computer engineering student<br>I'm interested in web development<br>I enjoy constantly learning
+# ☁️ About Me:
+Hello! I'm Cristopher González @cris-gs<br><br> 🧑🏻‍💻 I'm a computer engineering student<br> 🤯 I'm interested in web development<br> 🌱 I enjoy constantly learning
 
 
 ## 🌐 Socials:
@@ -29,7 +27,5 @@ Hello! I'm Cristopher González @cris-gs<br><br>I'm a computer engineering stude
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cris-gs&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cris-gs&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=cris-gs&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
